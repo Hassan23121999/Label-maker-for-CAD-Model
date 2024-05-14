@@ -39,4 +39,4 @@ Follow the GUI prompts to select a folder, input process steps, and manufacturin
 
 
 ## Contact
-For any inquiries, feel free to open an issue or send an email to support@example.com.
+For any inquiries, feel free to open an issue or send an email to 2016n1770@gmail.com.
